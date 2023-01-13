@@ -1,4 +1,4 @@
-package codingInterviewProblems.problem_1
+package codingInterviewProblems
 
 /*
 ******Problem Statement *******
